@@ -1,1 +1,4 @@
-Just place dinput8.dll into the same directory as the target .exe, and it should work.
+To make it work, place _dinput8.dll_ into the application's directory, where the _.exe_ is.
+
+# Tested with
+* Need for Speed: Most Wanted
